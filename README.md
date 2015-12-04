@@ -20,3 +20,8 @@ $cmb->add_field( array(
   'type'        => 'fontawesome_icon', // This field type
 ) );
 ```
+
+### Credits ###
+This plugin uses the following jquery plugin
+
+[https://github.com/mjolnic/fontawesome-iconpicker](https://github.com/mjolnic/fontawesome-iconpicker)
