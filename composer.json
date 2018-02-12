@@ -1,0 +1,17 @@
+{
+  "name": "theKhorshed/cmb2-fontawesome-icon-picker",
+  "type": "wordpress-plugin",
+  "description": "A WordPress plugin that integrates a font-awesome icon picker for CMB2",
+  "keywords": ["FontAwesome", "CMB2", "icons"],
+  "license": "GPLv2",
+  "homepage": "https://github.com/theKhorshed/cmb2-fontawesome-icon-picker",
+  "authors": [
+    {
+      "name": "Khorshed Alam"
+    },
+    {
+      "name": "Niklas Rosenqvist",
+      "email": "niklas.s.rosenqvist@gmail.com"
+    }
+  ]
+}
